@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.container1{
+  height: 40vh;
+  border: 2px solid red;
+}
+.container2{
+  height: 20vh;
+  border: 2px solid red;
+}
+.container3{
+  height: 40vh;
+  border: 2px solid red;
+}
